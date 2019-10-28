@@ -11,9 +11,7 @@ Unit completed at UT Austin in 2019
   - **Data Structures, Object Oriented Programming, Recursion, Generics, Containers, Search & Sorting algorithms, Hashing, Graphs, GUI, JUnit Testing, Multithreading, Netoworking**
 * Assignments covered: 
   - **sorting algorithms, search algorithms, graphs, OOP, building GUI, multithreading, and networking.**
-
 \
-
 ### List of assignments:
 1. **SortTools** - write a class with some specified methods that help with sorting operations on arrays.
 2. **MasterMind** - create an implementation of a MasterMind game (computer version of this game: https://en.wikipedia.org/wiki/Mastermind_(board_game)
