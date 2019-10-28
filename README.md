@@ -1,4 +1,4 @@
-# EE-422C---Software-Design-and-Implementation-II
+# EE422C__Software_Design_and_Implementation_II
 
 ### Course description:
 Unit completed at UT Austin in 2019
