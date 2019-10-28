@@ -13,7 +13,6 @@ Unit completed at UT Austin in 2019
   - **sorting algorithms, search algorithms, graphs, OOP, building GUI, multithreading, and networking.**
 
 \
-\
 
 ### List of assignments:
 1. **SortTools** - write a class with some specified methods that help with sorting operations on arrays.
