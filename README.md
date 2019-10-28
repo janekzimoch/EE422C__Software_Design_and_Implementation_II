@@ -1,6 +1,6 @@
 # EE-422C---Software-Design-and-Implementation-II
 
-## Course description:
+### Course description:
 Unit completed at UT Austin in 2019
 
 * Programming language: 
@@ -12,8 +12,10 @@ Unit completed at UT Austin in 2019
 * Assignments covered: 
   - **sorting algorithms, search algorithms, graphs, OOP, building GUI, multithreading, and networking.**
 
+\
+\
 
-## List of assignments:
+### List of assignments:
 1. **SortTools** - write a class with some specified methods that help with sorting operations on arrays.
 2. **MasterMind** - create an implementation of a MasterMind game (computer version of this game: https://en.wikipedia.org/wiki/Mastermind_(board_game)
 3. **Word Ladder** - given two five letter words (words A & B), find a ladder from word A to word B by sellecting words from a huge list of 5 letter words. Each next word in a ladder can differ only by a single letter with the previous one. 
